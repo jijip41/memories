@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Memories',
+  title: 'Memory Maps',
   description: 'Memory maps',
 };
 
