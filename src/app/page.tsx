@@ -6,6 +6,7 @@ export default function Home() {
       <main className="flex flex-col flex-grow  text-white">
         {/* TODO: Create a Navbar component  */}
         <div className="flex justify-center gap-4">
+          <div>Home</div>
           <div>Images</div>
           <div>Notes</div>
         </div>
